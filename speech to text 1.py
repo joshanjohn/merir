@@ -19,7 +19,7 @@ engine.say(fg)
 engine.runAndWait()
 
 
-say = "hi mr joshan john"
+say = "hi sir"
 engine.say(say)
 
 engine.runAndWait()
